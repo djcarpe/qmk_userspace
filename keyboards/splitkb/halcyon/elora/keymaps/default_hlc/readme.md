@@ -260,3 +260,5 @@ The left rotary encoder is programmed to control the volume whereas the right en
 This default keymap can be used as is, unchanged, as a daily driver for your Elora but you're invited to treat your keymap like a bonsai. At the beginning, it's just like the default keymap but from time to time, you can tweak it a little. Cut a little key here, let another combo grow there. Slowly but surely it will be a unique keymap that will fit you like a glove.
 
 Check out the #keymap-ideas channel on the official SplitKB Discord server for inspiration.
+
+Test
